@@ -3,7 +3,7 @@ Readme
 <h1 align="center">Hi 👋, I'm Yougesh</h1>
 
 <h3 align="center">
-Cyber Security Analyst | Threat Hunter | SOC Engineer | Detection Engineer
+Cyber Security Analyst | Threat Hunter | SOC | SOAR | Detection Engineer
 </h3>
 
 <p align="center">
@@ -14,7 +14,7 @@ Passionate about Threat Hunting, Incident Response, Malware Analysis, and Securi
 
 ## 🛡️ About Me
 
-- 🔭 Currently working on **SOC Detection Engineering**
+- 🔭 Currently working on **SOC Detection Engineering and SOAR Automation Playbooks**
 - 🌱 Learning **Advanced Threat Hunting & Malware Analysis**
 - 👨‍💻 Building:
   - KQL Detection Queries
@@ -22,10 +22,13 @@ Passionate about Threat Hunting, Incident Response, Malware Analysis, and Securi
   - Incident Response Playbooks
 - 💬 Ask me about:
   - Microsoft Defender XDR
+  - SOAR Playbooks
   - Microsoft Sentinel
   - KQL
   - Threat Hunting
   - Incident Response
+  - ⚡ Goal:
+  Become an advanced Detection Engineer & SOAR Automation Specialist
 
 ---
 
@@ -37,7 +40,7 @@ Passionate about Threat Hunting, Incident Response, Malware Analysis, and Securi
 - Defender for Endpoint
 - Defender for Cloud Apps
 - Splunk
-- Wireshark
+- Cortex XSOAR
 
 ### 🔹 Threat Detection & Hunting
 - KQL
@@ -70,11 +73,11 @@ Passionate about Threat Hunting, Incident Response, Malware Analysis, and Securi
 | Project | Description |
 |---|---|
 | Threat-Hunting-KQL | KQL queries for threat hunting |
+| SOAR-Playbooks | Automated incident response workflows |
 | SOC-Detection-Engineering | Detection rules and analytics |
 | Malware-Analysis-Lab | Malware investigation notes |
 | IR-Playbooks | Incident response procedures |
 | Linux-Forensics | Linux investigation techniques |
-
 ---
 
 ## 🧠 Current Learning
@@ -90,6 +93,7 @@ Passionate about Threat Hunting, Incident Response, Malware Analysis, and Securi
 
 ## 📖 Cybersecurity Areas of Interest
 
+- SOAR Engineering
 - Threat Hunting
 - Endpoint Security
 - SIEM Engineering
@@ -134,8 +138,7 @@ Passionate about Threat Hunting, Incident Response, Malware Analysis, and Securi
 
 ## ⚔️ Motto
 
-> "Detect. Hunt. Respond. Improve."
-
+>  "Automate. Detect. Hunt. Respond. Improve."
 ---
 
 <p align="center">

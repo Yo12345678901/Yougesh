@@ -27,7 +27,7 @@ Passionate about Threat Hunting, Incident Response, Malware Analysis, and Securi
   - KQL
   - Threat Hunting
   - Incident Response
-  - ⚡ Goal:
+- ⚡ Goal:
   Become an advanced Detection Engineer & SOAR Automation Specialist
 
 ---

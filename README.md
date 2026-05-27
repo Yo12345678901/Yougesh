@@ -77,22 +77,6 @@ Passionate about Threat Hunting, Incident Response, Malware Analysis, and Securi
 
 ---
 
-## 🔥 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 🧠 Current Learning
 
 - Advanced Threat Hunting
@@ -120,7 +104,6 @@ Passionate about Threat Hunting, Incident Response, Malware Analysis, and Securi
 ## 🏆 Certifications & Learning
 
 - SC-200
-- AZ-500
 - Security+
 - TryHackMe
 - Hack The Box
@@ -138,11 +121,11 @@ Passionate about Threat Hunting, Incident Response, Malware Analysis, and Securi
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank">
+<a href="https://linkedin.com/in/yougesh-raj" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" />
 </a>
 
-<a href="https://github.com/YOUR_USERNAME" target="blank">
+<a href="https://github.com/Yo12345678901" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" height="30" width="40" />
 </a>
 </p>
